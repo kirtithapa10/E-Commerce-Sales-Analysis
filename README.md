@@ -20,4 +20,17 @@ The data is available in 8 csv files
 
 ![Povinné informace na produktových a checkout stránkách](https://github.com/user-attachments/assets/28a2b886-d8e3-477b-973b-ede8ef1c956c)
 
+ insights and actions from your analysis:
+
+1. **Focus marketing on top-selling categories**- like *Bed Table Bath*, *Health Beauty*, and *Computer Accessories* with bundle offers and cross-promotions.
+   
+2. **Use geo-targeted campaigns** — reward high-order cities and give discounts or free shipping to underperforming ones.
+
+3. **Leverage seasonal trends** — increase ads during peak months and offer flash sales in low-demand months
+
+4. **Highlight installment options** since nearly all customers use them, making it a key selling point.
+ 
+5. **Improve delivery operations** by optimizing fulfillment centers and delivery routes in states with the most customers.
+
+6. **Enhance customer satisfaction** through feedback collection, personalized recommendations, and faster, reliable delivery service.
 
