@@ -5,9 +5,18 @@ It provides comprehensive insights into various aspects of the business, includi
 # Feature
 The data is available in 8 csv files
 -customers.csv
+
 -orders.csv
+
 -sellers.csv
+
 -products.csv
+
 -order_items.csv
+
 -payments.csv
+
 -geolocation.csv 
+![Povinné informace na produktových a checkout stránkách](https://github.com/user-attachments/assets/28a2b886-d8e3-477b-973b-ede8ef1c956c)
+
+
