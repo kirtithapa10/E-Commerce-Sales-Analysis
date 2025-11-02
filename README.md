@@ -17,6 +17,7 @@ The data is available in 8 csv files
 -payments.csv
 
 -geolocation.csv 
+
 ![Povinné informace na produktových a checkout stránkách](https://github.com/user-attachments/assets/28a2b886-d8e3-477b-973b-ede8ef1c956c)
 
 
